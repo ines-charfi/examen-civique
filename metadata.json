@@ -1,0 +1,6 @@
+{
+  "name": "Guide et Examen Civique Français",
+  "description": "Préparation complète à l'examen civique et à l'entretien d'assimilation : fiches de révision, Livret du Citoyen et simulation d'examen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
